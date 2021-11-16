@@ -3,4 +3,7 @@ main{
   grid-gap: 5px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-main>arti
+main>article>img{
+  width: 100%;
+}
+@media
